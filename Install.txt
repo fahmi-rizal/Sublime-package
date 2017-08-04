@@ -1,0 +1,13 @@
+1. Install package (ctrl+`)
+- Package Control
+- AutoFileName
+- SideBarEnhancements
+- SublimeLinter
+- Emmet
+- Emmet Css Snippets
+- HTML-CSS-JS Prettify
+
+2. Tambahan
+- Bootstrap 3 Snippets
+- CodeIgniter Snippets
+- ColorPicker
